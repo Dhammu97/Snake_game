@@ -14,8 +14,5 @@ Then we set screen size width= 600,  and height= 600</li>
 <li>Next we create a snake food in that randomly change a position on screen when the distance between the two turtle is less than 15.
 </li>
 <li>
-last we create a score bo
-
-
-
+last we create a score board </li>
 </ul>
